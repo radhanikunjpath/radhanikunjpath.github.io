@@ -1,0 +1,63 @@
+[
+	{
+		"category": "Kaama",
+		"categoryHindi": "काम",
+		"categoryImage": "https://radhanikunjpath.github.io/assets/categories/kama.png",
+		"videos": [
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			}
+		]
+	},
+	{
+		"category": "Krodha",
+		"categoryHindi": "क्रोध",
+		"categoryImage": "https://radhanikunjpath.github.io/assets/categories/krodha.png",
+		"videos": [
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			},
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			}
+		]
+	},
+	{
+		"category": "Moh/Aashakti",
+		"categoryHindi": "आसक्ति",
+		"categoryImage": "https://radhanikunjpath.github.io/assets/categories/moha.png",
+		"videos": [
+			{
+				"id": "JOAcgfoXZKE",
+				"title": "Kisi vyakti ki aaashkti se mukti kaise mile"
+			}
+		]
+	}
+]

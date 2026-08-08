@@ -1,0 +1,22 @@
+{
+  "short_name": "Radha Nikunj Path",
+  "name": "Radha Nikunj Path",
+  "description": "A devotional companion for Naam Jap, reflections, routine, reminders, and monthly recap.",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#f7f0df",
+  "background_color": "#fbf5e8",
+  "categories": ["productivity", "lifestyle"]
+}

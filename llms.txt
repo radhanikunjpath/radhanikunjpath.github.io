@@ -1,0 +1,22 @@
+# Radha Nikunj Path
+
+Radha Nikunj Path is a devotional companion for Jap, reflections, routine, and Shri Radha Naam remembrance.
+
+This website includes:
+- Home: app overview and Play Store download entry
+- Docs: end-user guide for Naam Jap, Reflections, Routine, Jap Counter, Jap Reminders, Statistics, Monthly Recap, and Backup
+- About: spiritual intent and purpose of the app
+- Privacy Policy: data storage, reminders, and Google Drive backup policy
+- Terms & Conditions: app use, local data, reminders, backup, privacy, and availability terms
+- Contact: support and feedback links
+
+Primary website:
+https://radhanikunjpath.github.io/
+
+Important URLs:
+- https://radhanikunjpath.github.io/
+- https://radhanikunjpath.github.io/docs
+- https://radhanikunjpath.github.io/about
+- https://radhanikunjpath.github.io/privacy-policy
+- https://radhanikunjpath.github.io/terms-and-conditions
+- https://radhanikunjpath.github.io/contact
